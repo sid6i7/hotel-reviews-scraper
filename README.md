@@ -39,4 +39,5 @@ This is how the output is going to look like:
 ![image](https://user-images.githubusercontent.com/92942861/165898831-478dec79-eb53-480c-8d0b-0de0a9bfa01b.png)
 
 After selecting any of the options, the scraper will start to scrape reviews of that hotel and save it as a csv file (in the same directory as the scraper.ipynb file) with the name that u searched for intially.
+
 In our case the name would be: "Marriott.csv"
