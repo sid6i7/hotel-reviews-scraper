@@ -1,4 +1,4 @@
-# Hote Reviews Scraper
+# Hotel Reviews Scraper
 
 Hotel Reviews Scraper is a simple to use web scraper that can scrape hotel reviews from TripAdvisor.
 
